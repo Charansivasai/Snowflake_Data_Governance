@@ -12,3 +12,5 @@ Here's the table you requested in lowercase:
 | **tag**                  | **value**                     | **comment**                                    | **database** | **schema** | **object name**                          | **column**             | **domain** | **date**      |
 |--------------------------|-------------------------------|------------------------------------------------|--------------|------------|------------------------------------------|------------------------|------------|---------------|
 | sensitive_data_masking   | standard datatype mask        | sensitive data management masking tag          |              |            |                                          |                        | column     | 2024-08-20    |
+
+Trying to be better every day -_-
